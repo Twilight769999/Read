@@ -1,0 +1,5 @@
+<div style="width:100%; max-width:100ch; white-space: pre-wrap; font-family: monospace, 'Noto Sans SC';">
+
+文本内容
+
+</div>
